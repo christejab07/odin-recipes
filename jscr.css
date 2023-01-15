@@ -24,7 +24,7 @@ a:hover{
     padding-left: 20px;
 }
 .build{
-    background-image: url(lune.jfif);
+    background-image: url(js-org.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -41,7 +41,7 @@ button{
     width: 250px;
 }
 .sources{
-    background-image: url(steve-ball.png);
+    background-image: url(npm.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
